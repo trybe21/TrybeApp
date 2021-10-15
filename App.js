@@ -36,8 +36,7 @@ import CreateEvent from './screens/signedIn/CreateEvent';
 
 import { NavigationContainer } from '@react-navigation/native';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
-import MaterialCommunityIcons from 'react-native-vector-icons/MaterialCommunityIcons';
-import Ionicons from 'react-native-vector-icons/Ionicons';
+
 import SplashScreen from 'react-native-splash-screen';
 
 
